@@ -44,3 +44,8 @@
   .post__avatar {
     padding: 20px;
   }
+
+  .post__image {
+    max-width: 600px;
+    max-height: 600px;
+  }
